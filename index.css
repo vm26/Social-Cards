@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(233, 229, 229);   
+  } 
+  .row{
+      padding: 60px 20px;
+  }
+  .col-4{
+    border:solid white;
+    background-color: white;
+    text-align: center;
+    padding:50px 25px; 
+       
+  }
+  .fa{
+      color:blue;
+  }
+  p{
+      margin:20px 0px;
+  }
