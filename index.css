@@ -1,18 +1,17 @@
 body{
     background-color: rgb(233, 229, 229);   
   } 
-  .row{
-      padding: 60px 20px;
+.bbox{
+      padding: 20px 80px ;
   }
-  .col-4{
-    border:solid white;
+  .box{    
     background-color: white;
     text-align: center;
-    padding:50px 25px; 
-       
+    padding:50px 25px;
+    margin:30px 0px; 
   }
   .fa{
-      color:blue;
+      color:rgba(67, 67, 250, 0.829);
   }
   p{
       margin:20px 0px;
